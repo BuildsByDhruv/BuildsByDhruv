@@ -23,10 +23,14 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=zen" alt="buildsbydhruv social links" /></picture>
+  <img width="2172" height="724" alt="ChatGPT Image Aug 6, 2026, 09_08_37 PM" src="https://github.com/user-attachments/assets/a60f9d5e-2b9f-45bb-a18e-0895e3289eec" />
 </p>
 
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buildsbydhruv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-here/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhr.uv__03)
+
 
 ---
 
