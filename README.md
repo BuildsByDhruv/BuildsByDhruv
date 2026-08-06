@@ -1,33 +1,77 @@
+# buildsbydhruv
+
+> Learning velocity and project potential.
+
+**Theme:** Satan · **Style:** Detailed · **Agent:** Full-Stack Engineer
+
+## Header
+Hi, I'm **buildsbydhruv**. This README is tuned for **student** with a Satan visual system.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=buildsbydhruv&theme=zen" alt="Dhruv Builds profile hero" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=buildsbydhruv&theme=satan" alt="buildsbydhruv hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=buildsbydhruv&theme=satan" alt="buildsbydhruv about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=satan" alt="buildsbydhruv stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **Satan** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=satan" alt="buildsbydhruv stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=satan" alt="buildsbydhruv projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+> Editing this section in the inspector.
+LinkedIn: In/dhruv-here/ · Email: sangwandhruv15@gmail.com
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=satan&linkedin=In%2Fdhruv-here%2F&email=sangwandhruv15%40gmail.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=satan&linkedin=In%2Fdhruv-here%2F&email=sangwandhruv15%40gmail.com" alt="buildsbydhruv social section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=satan" alt="buildsbydhruv stats section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=satan" alt="buildsbydhruv stack section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=satan" alt="buildsbydhruv projects section" />
+  </picture>
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=buildsbydhruv&theme=zen" alt="About Dhruv Builds" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=buildsbydhruv&theme=zen" alt="Language stack" /></picture>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=zen" alt="GitHub Stats" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=buildsbydhruv&theme=zen" alt="buildsbydhruv featured projects" /></picture>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=buildsbydhruv&theme=zen" alt="buildsbydhruv social links" /></picture>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buildsbydhruv)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
