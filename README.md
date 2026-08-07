@@ -12,6 +12,8 @@
 
 ## 📊 GitHub Stats
 
+![snake gif](https://github.com/BuildsByDhruv/BuildsByDhruv/blob/output/github-contribution-grid-snake.git)
+
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=zen&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=buildsbydhruv&theme=zen" alt="GitHub Stats" /></picture>
 </p>
